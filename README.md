@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm Dinesh Namburi</h1>
+<h1 align="center">👋 Hi, I'm Namburi Dinesh</h1>
 
 <h3 align="center">
-Computer Science & Engineering Undergraduate | Software Developer | Problem Solver
+Computer Science & Engineering Undergraduate | Python Developer | Problem Solver
 </h3>
 
 <p align="center">
@@ -28,7 +28,7 @@ Computer Science & Engineering Undergraduate | Software Developer | Problem Solv
 
 💻 Strong foundation in **Data Structures & Algorithms, Object-Oriented Programming, DBMS, and software development**.
 
-🐍 Work primarily with **Python, Java, C, and SQL** to build practical software applications.
+🐍 Work primarily with **Python, C, and SQL** to build practical software applications.
 
 🧠 Solved **1000+ problems on CodeChef** and **250+ problems on LeetCode**, strengthening my problem-solving and algorithmic thinking.
 
